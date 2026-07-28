@@ -18,3 +18,16 @@ Each sample has four numerical features:
 2.Sepal width
 3.Petal length
 4.Petal width
+
+### Topics
+- Python Basics
+- NumPy
+- Pandas
+- Data Visualization (Matplotlib & Seaborn)
+
+### Tools
+- Google Colab
+- Python 3
+- NumPy
+- Pandas
+- Matplotlib
