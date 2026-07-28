@@ -1,4 +1,5 @@
 # python-ai-basics
+
 Introduction to Python, NumPy, Pandas, and Data Visualization for AI 
 
 Dataset Description
@@ -7,13 +8,13 @@ This experiment uses the Iris dataset, a classic dataset in machine learning edu
 
 The dataset contains 150 flower samples from three species:
 
-Setosa
-Versicolor
-Virginica
+1.Setosa
+2.Versicolor
+3.Virginica
 
 Each sample has four numerical features:
 
-Sepal length
-Sepal width
-Petal length
-Petal width
+1.Sepal length
+2.Sepal width
+3.Petal length
+4.Petal width
